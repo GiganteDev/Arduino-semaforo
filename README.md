@@ -23,7 +23,7 @@
   Esse projeto explora as saídas digitais com sinais lógicos fixos e faz um 3 LEDs piscarem em ordem de semáforo em estado ON/OFF específico e previamente programado.
 </p>
 
-## Blink
+## Semáforo
 
 ### Introdução
 
