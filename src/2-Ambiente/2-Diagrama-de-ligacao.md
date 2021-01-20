@@ -9,4 +9,4 @@ Após reunir todos os materiais necessários e posicionar o LED vermelho com o p
 
 ---
 
-<a  href="https://github.com/GiganteDev/Arduino-blink/blob/main/src/3-Execucao/1-Codigo.md"><img src="https://img.shields.io/badge/%E2%9E%94%20-Continuar-fff"/></a>
+<a  href="https://github.com/GiganteDev/Arduino-semaforo/blob/main/src/3-Execucao/1-Codigo.md"><img src="https://img.shields.io/badge/%E2%9E%94%20-Continuar-fff"/></a>
