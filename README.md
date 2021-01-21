@@ -21,6 +21,8 @@
 ## Sobre o Projeto
 <p align="left">
   Esse projeto explora as saídas digitais com sinais lógicos fixos e faz um 3 LEDs piscarem em ordem de semáforo em estado ON/OFF específico e previamente programado.
+
+  Projeto de exemplo para um semáforo com LED em um Arduino.
 </p>
 
 ## Semáforo
