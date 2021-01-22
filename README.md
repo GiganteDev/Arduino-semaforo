@@ -12,9 +12,9 @@
 </h1>
   
   <p align="center">
-    <a href="https://github.com/GiganteDev/Arduino-piscar/issues">Report Bug</a>
+    <a href="/issues">Report Bug</a>
     ·
-    <a href="https://github.com/GiganteDev/Arduino-piscar/issues">Request Feature</a>
+    <a href="/issues">Request Feature</a>
   </p>
 </p>
 
@@ -34,8 +34,8 @@
 
 ### Configuração de Ambiente
 
-1. [Material necessário:](/src/2-Ambiente/1-Material-necessario.md)
-1. [Diagrama de ligação:](/src/2-Ambiente/2-Diagrama-de-ligacao.md)
+1. [Material necessário](/src/2-Ambiente/1-Material-necessario.md)
+1. [Diagrama de ligação](/src/2-Ambiente/2-Diagrama-de-ligacao.md)
 
 ### Execução
 
